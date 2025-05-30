@@ -1,0 +1,21 @@
+body {
+    background-color: lightgreen;
+    color: black;
+
+}
+
+footer {
+    background-color: ;
+    position: fixed;
+    bottom: 0;
+    width: 300%;
+    height: 2rem;
+    text-align: center;
+}
+
+footer {
+    color: black;
+    text-align: center;
+    font-size: 1.0 rem;
+    margin-top: 0.5 rem;
+}
